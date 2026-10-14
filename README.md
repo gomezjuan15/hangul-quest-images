@@ -20,6 +20,24 @@ Download the images you need (**Code → Download ZIP**, or clone the repo) and 
 
 **EN:** This pack intentionally contains **NO hero images**. Every player creates and customizes their own hero (name, gender, hair, style…), so another player's hero art would not fit — generate your own. By the same rule, only **hero-free versions** are included: the in-game village images of Bebidópolis and Parentela feature the hero in the foreground, so they are not here (a hero-free Bebidópolis scene is included instead), and the village-liberation celebration photos (hero front and center) are left out too.
 
+### ⚔️ Tus imágenes de ataque llevan su palabra / Your attack images carry their word
+
+**ES:** Al generar las imágenes de tu héroe, las **tres imágenes de ataque** deben llevar su palabra **rotulada sobre la imagen**, en letras enormes estilo manga/acción con contorno grueso — el mismo texto con el que el juego anuncia el ataque en el chat:
+
+- **Parry → «¡PARRY!»**
+- **Berserker → «¡BERSERKER!»**
+- **Ultra Berserker → «¡ULTRA BERSERKER!»**
+
+Genera el rótulo como parte de la imagen y verifica que se lea bien. Si tu partida anuncia esos ataques con otras palabras (otro idioma u otro nombre), rotula las equivalentes.
+
+**EN:** When you generate your own hero's images, the **three attack images** MUST carry their word **lettered on the image**, in huge manga/action-style letters with a thick outline — the same text the game uses to announce the attack in chat:
+
+- **Parry → “¡PARRY!”**
+- **Berserker → “¡BERSERKER!”**
+- **Ultra Berserker → “¡ULTRA BERSERKER!”**
+
+Generate the lettering as part of the image and check it reads cleanly. If your game announces these attacks with different words (another language or another name), letter the equivalents instead.
+
 ---
 
 ## 📂 Contenido / Contents (74 imágenes / images)
