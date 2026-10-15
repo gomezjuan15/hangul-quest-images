@@ -22,21 +22,29 @@ Download the images you need (**Code → Download ZIP**, or clone the repo) and 
 
 ### ⚔️ Tus imágenes de ataque llevan su palabra / Your attack images carry their word
 
-**ES:** Al generar las imágenes de tu héroe, las **tres imágenes de ataque** deben llevar su palabra **rotulada sobre la imagen**, en letras enormes estilo manga/acción con contorno grueso — el mismo texto con el que el juego anuncia el ataque en el chat:
+**ES:** Al generar las imágenes de tu héroe, las **cuatro imágenes de ataque** deben llevar su palabra **rotulada sobre la imagen**, en letras enormes estilo manga/acción con contorno grueso — el mismo texto con el que el juego anuncia el ataque en el chat:
 
-- **Parry → «¡PARRY!»**
+- **Evasión → «¡EVASIÓN!»**
+- **Contraataque → «¡CONTRAATAQUE!»**
 - **Berserker → «¡BERSERKER!»**
 - **Ultra Berserker → «¡ULTRA BERSERKER!»**
 
 Genera el rótulo como parte de la imagen y verifica que se lea bien. Si tu partida anuncia esos ataques con otras palabras (otro idioma u otro nombre), rotula las equivalentes.
 
-**EN:** When you generate your own hero's images, the **three attack images** MUST carry their word **lettered on the image**, in huge manga/action-style letters with a thick outline — the same text the game uses to announce the attack in chat:
+**EN:** When you generate your own hero's images, the **four attack images** MUST carry their word **lettered on the image**, in huge manga/action-style letters with a thick outline — the same text the game uses to announce the attack in chat:
 
-- **Parry → “¡PARRY!”**
+- **Evasion → “¡EVASION!”**
+- **Counterattack → “¡CONTRAATAQUE!”**
 - **Berserker → “¡BERSERKER!”**
 - **Ultra Berserker → “¡ULTRA BERSERKER!”**
 
 Generate the lettering as part of the image and check it reads cleanly. If your game announces these attacks with different words (another language or another name), letter the equivalents instead.
+
+#### 🎯 Cada imagen en su momento, y cómo componerla / Each image on its beat, and how to compose it
+
+**ES:** Son **cuatro imágenes de acción, una por golpe**, y cada una aparece en su propio mensaje, **INMEDIATAMENTE ANTES del texto del resultado** de su golpe, **sola y sin ningún texto que la presente ni pie**: «¡BERSERKER!» cuando se dispara el Berserker armado · «¡ULTRA BERSERKER!» cuando cae el combo Ultra · «¡EVASIÓN!» cuando la evasión sale bien · «¡CONTRAATAQUE!» cuando cae el contraataque. **Este paquete NO incluye ninguna de las cuatro, a propósito**: llevan al héroe, y cada héroe es distinto — **cada partida genera sus propias cuatro imágenes con SU héroe** (con la apariencia elegida de ese héroe); no se comparten ni se publican. Al componerlas: la **Evasión** debe leerse de un vistazo como **esquivar un golpe** — el golpe o zarpazo del monstruo pasa justo por donde estaba la cabeza o el cuerpo del héroe un instante antes, y el monstruo queda mareado **🌀** (la espiral azul es la marca de mareo en todo el juego); los monstruos son de **tamaño normal** (más o menos la altura del héroe): nada de monstruos gigantes ni de garras enormes de tamaño de jefe estrellándose contra el suelo; la energía de la imagen es **equilibrada**, ni demasiado dramática ni demasiado tranquila o estática. El **Contraataque** muestra al héroe devolviendo el golpe al monstruo mareado. Y cada imagen es **distinta** de las demás: la Evasión no es el Contraataque.
+
+**EN:** There are **four action images, one per beat**, and each appears in its own message, **IMMEDIATELY BEFORE the result text** of its beat, **alone and with NO caption or lead-in text**: “¡BERSERKER!” when the armed Berserker fires · “¡ULTRA BERSERKER!” when the Ultra combo lands · “¡EVASION!” on a successful evasion · “¡CONTRAATAQUE!” (counterattack) when the counterattack lands. **This pack deliberately includes NONE of the four**: they feature the hero, and every hero looks different — **each game generates its OWN four images featuring ITS OWN hero** (matching that hero's chosen appearance); they are never shared or published. When composing them: the **Evasion** image must read at a glance as **dodging a blow** — the monster's strike or claw swipe passes right where the hero's head or body was a moment before, and the monster is left dizzy **🌀** (the blue spiral is the dizzy marker everywhere in the game); monsters are **normal-sized** (about the hero's height): no giants, no huge boss-scale claws smashing into the ground; the image's energy is **balanced**, neither overly dramatic nor too calm or static. The **Counterattack** image shows the hero striking back into the dizzy monster. And each image is **distinct** from the others: the Evasion is not the Counterattack.
 
 ---
 
